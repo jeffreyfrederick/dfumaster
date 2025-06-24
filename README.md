@@ -1,6 +1,6 @@
 # DFU Master
 
-<img src="screenshot.png" alt="DFU Master UI" width="500"/>
+<center><img src="screenshot.png" alt="DFU Master UI" width="500"/></center>
 
 **DFU Master** is a PySide6-based macOS utility designed to manage Mac device firmware restoration via DFU (Device Firmware Update) mode. It provides a simple GUI for triggering DFU mode, rebooting devices, and restoring firmware using Apple Configurator and `macvdmtool`.
 
