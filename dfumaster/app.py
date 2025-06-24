@@ -6,7 +6,6 @@ from PySide6.QtCore import Qt, QTimer, QThread, Signal
 import os
 import re
 import subprocess
-import sys
 
 # Paths
 project_root = os.path.dirname(os.path.abspath(__file__))
