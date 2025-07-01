@@ -35,3 +35,4 @@
 
 ```bash
 pip install PySide6
+sudo ./setup.sh
