@@ -31,7 +31,7 @@
 
 ## Setup
 
-1. **Install dependencies:**
+1. **Install dependencies and run setup:**
 
 ```bash
 pip install PySide6
