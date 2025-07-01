@@ -1,0 +1,80 @@
+# Apple IPSW files
+*.ipsw
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.ENV/
+
+# macOS files
+.DS_Store
+
+# VS Code settings (optional)
+.vscode/
+
+# PyCharm settings (optional)
+.idea/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# Environment variables and secrets
+.env
+*.env
+
+# MyPy type checker
+.mypy_cache/
+
+# pytest
+.pytest_cache/
+
+# coverage.py
+htmlcov/
+.coverage
+.coverage.*
+
+# pip
+pip-log.txt
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Wheels
+*.whl
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# SQLite database files
+*.sqlite3
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Unit test cache
+__pycache__/
+nosetests.xml
+test-results.xml
+
+# Local test configs
+.tox/
+.cache/
+
+# Flask-specific
+*.pid
+*.swp
