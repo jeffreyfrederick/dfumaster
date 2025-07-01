@@ -35,4 +35,5 @@
 
 ```bash
 pip install PySide6
+chmod +x setup.sh
 sudo ./setup.sh
